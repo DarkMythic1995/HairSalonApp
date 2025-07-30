@@ -1,6 +1,7 @@
 # HairSalonApp
 
 A .NET MAUI application for booking hair salon appointments, integrated with an ASP.NET Core API for email notifications and SQLite for local storage.
+Link for Youtube Walkthrough: (https://youtu.be/gB3JmgmXR60)
 
 ### Prerequisites
 
@@ -38,8 +39,7 @@ A .NET MAUI application for booking hair salon appointments, integrated with an 
 
 - The companion `hairsalonapp-api` repository must be running for email functionality.
 - Android emulator support requires cleartext HTTP configuration (not included in this release).
-- SQLite database is generated at `C:\Users\<your-username>\AppData\Local\HairSalonApp.db3` on Windows.
-- Replace `logo.png` with your salon’s logo for custom branding.
+- Here is a Youtube video walkthrough of the project (https://youtu.be/gB3JmgmXR60)
 
 ### License
 
